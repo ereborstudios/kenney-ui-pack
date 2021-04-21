@@ -2,6 +2,8 @@
 
 > Buttons, sliders and panels to make your game menu or UI look great and colorful! Have a go with the elements in this pack and see what you can create.
 
+![Sample](https://raw.githubusercontent.com/ereborstudios/kenney-ui-pack/main/sample.png)
+
 This package uses assets used under the creative commons license from [kenney.nl](https://kenney.nl/assets/ui-pack).
 
 ## Installation
@@ -17,3 +19,7 @@ You will now have these assets installed into your project:
 * Fonts are located under `fonts/kenney-ui-pack`
 
 Enjoy!
+
+---
+
+![Preview](https://raw.githubusercontent.com/ereborstudios/kenney-ui-pack/main/preview.png)
