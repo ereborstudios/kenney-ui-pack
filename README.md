@@ -1,5 +1,7 @@
 # UI Pack
 
+> Buttons, sliders and panels to make your game menu or UI look great and colorful! Have a go with the elements in this pack and see what you can create.
+
 This package uses assets used under the creative commons license from [kenney.nl](https://kenney.nl/assets/ui-pack).
 
 ## Installation
